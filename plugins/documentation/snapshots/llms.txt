@@ -1,0 +1,21 @@
+# Relay Docs
+
+> Relay is an Obsidian plugin for real-time multiplayer collaboration on notes and Canvases.
+
+## Docs
+
+- [Introduction](https://docs.relay.md/introduction/): Relay is an Obsidian plugin that enables real-time multiplayer collaboration on notes and Canvases.
+- [Hosting options](https://docs.relay.md/features/hosting-options/): Relay offers flexible hosting options to meet a variety of security, compliance, and operational requirements.
+- [Canvas multiplayer](https://docs.relay.md/features/canvas-multiplayer/): Collaborate with your team in real time on Obsidian Canvas files using Relay.
+- [Invite someone to collaborate](https://docs.relay.md/guides/invite-a-collaborator/): How to invite a collaborator to your Relay Server, share a folder with them, and start working together in real time.
+- [Using Relay with other sync services](https://docs.relay.md/guides/using-relay-with-other-sync-services/): How to safely use Relay alongside other sync services like Obsidian Sync, iCloud, and Dropbox.
+- [Upgrade to Relay for teams](https://docs.relay.md/guides/upgrade-to-relay-for-teams/): How to upgrade your Relay Server to a paid subscription.
+- [Create a Shared Folder with private access](https://docs.relay.md/guides/private-shared-folders/): How to share a Relay Shared Folder with only selected users.
+- [Update Relay](https://docs.relay.md/guides/update-relay/): How to check your current Relay version and update to the latest release.
+- [Install the latest Relay beta](https://docs.relay.md/guides/install-relay-beta/): How to install the latest Relay beta with BRAT or a local coding agent.
+- [Obsidian for work](https://docs.relay.md/guides/obsidian-for-work/): Using Obsidian and Relay for team collaboration at work.
+- [Configure attachments for sharing](https://docs.relay.md/guides/configure-attachments-for-sharing/): How to configure Obsidian so attachments are automatically placed where Relay can sync them.
+- [Backing up your Obsidian vault](https://docs.relay.md/guides/backing-up-your-obsidian-vault/): How to set up backups for an Obsidian vault that uses Relay, and what recovery options are available.
+- [Stack icon is gray](https://docs.relay.md/troubleshooting/stack-icon-gray/): How to fix a gray Relay stack icon and restore change tracking.
+- [Icons](https://docs.relay.md/user-interface/icons/): Relay adds several icons to your Obsidian interface to give you status information and quick access to controls.
+- [Real-time multiplayer vs repurposed file sync](https://docs.relay.md/how-relay-works/real-time-multiplayer-vs-repurposed-file-sync/): How Relay's CRDT-based approach differs from file sync tools repurposed for collaboration.

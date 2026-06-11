@@ -1,0 +1,17 @@
+{
+  "generated_at": "2026-06-10T18:14:43.000Z",
+  "page_count": 15,
+  "docs_base_url": "https://docs.relay.md",
+  "source_commit": null,
+  "generator_version": "relay-docs-llms-v1",
+  "files": {
+    "llms.txt": {
+      "bytes": 2688,
+      "sha256": "640ccde326b239a09e28018df378cc1716ed0ffbaa3ce4663824f879a2349323"
+    },
+    "llms-full.txt": {
+      "bytes": 95836,
+      "sha256": "16a97f6f9eb5b5643aee6589351eee5d3aaef77a20e5dcb7815d43499f21b496"
+    }
+  }
+}

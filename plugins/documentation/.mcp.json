@@ -1,0 +1,9 @@
+{
+  "documentation": {
+    "command": "node",
+    "args": ["${CLAUDE_PLUGIN_ROOT}/bin/docs-mcp.js"],
+    "env": {
+      "RELAY_DOCUMENTATION_MCP_BASE_URL": "https://docs.relay.md"
+    }
+  }
+}
