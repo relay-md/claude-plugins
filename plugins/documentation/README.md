@@ -1,11 +1,14 @@
 # Relay Documentation plugin
 
-This is a zero-auth Claude Code MCP plugin for public Relay documentation. It
-searches and reads the public docs corpus from `docs.relay.md` and returns
-source-linked excerpts for grounded answers.
+Relay Documentation lets Claude answer Relay setup, hosting, pricing,
+shared-folder, sync, and troubleshooting questions from the public Relay docs.
+It searches and reads docs.relay.md, returns links back to the source docs, and
+stays inside Relay's documentation corpus. Use it when you are evaluating
+Relay, setting up a Relay Server, checking sync behavior, or looking up a
+documented product limit without leaving your Claude session.
 
-It does not access a Relay account, Relay API, local Obsidian vault, local
-workspace, Relay Comms, or user data.
+This plugin does not read your Relay account, team workspace, Obsidian vault,
+local files, Relay API, Relay Comms, or user data.
 
 ## Install
 

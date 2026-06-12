@@ -12,7 +12,7 @@ This repository is the public Claude Code plugin marketplace for Relay.
 
 ## Included plugins
 
-- `documentation@relay` (`Relay Documentation`) searches and reads the public Relay documentation at `docs.relay.md`.
+- `documentation@relay` (`Relay Documentation`) — ask Claude questions about the public Relay documentation at `docs.relay.md`, with source links and no Relay account, workspace, vault, API, Comms, or user data access.
 
 ## Scope
 

@@ -10,7 +10,7 @@
     {
       "name": "documentation",
       "displayName": "Relay Documentation",
-      "description": "Search and read the public Relay docs at docs.relay.md. Scope: public Relay documentation only; no Relay account, workspace, vault, API, Comms, or user data access.",
+      "description": "Ask Claude questions about the public Relay documentation at docs.relay.md, with source links and no Relay account, workspace, vault, API, Comms, or user data access.",
       "version": "0.1.0",
       "author": {
         "name": "System 3",
